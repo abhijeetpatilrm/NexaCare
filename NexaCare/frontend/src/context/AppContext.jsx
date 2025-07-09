@@ -17,6 +17,7 @@ export const AppProvider = ({ children }) => {
     baseURL: import.meta.env.VITE_API_BASE_URL || 'http://localhost:5000/api',
     withCredentials: true,
   });
+  console.log('API Base URL:', axiosInstance.defaults.baseURL);
 
   // Check authentication on initial load
   useEffect(() => {
