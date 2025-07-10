@@ -126,7 +126,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Your Name - [GitHub](https://github.com/yourusername)
+Abhijeet Patil - [GitHub](https://github.com/abhijeetpatilrm)
 
 ## 🙏 Acknowledgments
 
